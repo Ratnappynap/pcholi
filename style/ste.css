@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+.wrapper{
+width: 1100px;
+margin: 5px auto;
+
+}
+
+header{
+   
+    background-color: rgb(253, 180, 45);
+
+}
+header a{
+   
+    color: white;
+    font-size: 200px;
+
+}
+
+.block{
+    margin: 20px 0 0px 20px;
+    
+}
+.sitename2{
+    margin-bottom: 10px;
+    font: 20px Arial;
+    
+    max-width: auto;
+}
+
+
+nav{
+    display:flex;
+    width: 800px;
+    height: 50px;
+    border: 1px solid none;
+    color: white;
+}
+
+.container{
+    display: flex;
+    
+}
+main{
+   border: 1px solid none;
+    padding: 20px;
+  margin-top: -30px;
+
+
+}
+
+.right{ 
+    padding: 20px;
+    margin-top: -22px;
+   
+}
+footer{
+    padding: 30px 0;
+    text-align: center;
+    border: 1px solid none;
+    background-color: rgb(253, 180, 45) ;
+    color: white;
+}
+nav a{
+    padding: 10px;
+    
+    text-decoration: none;
+    font: 20px Arial;
+    color: white;
+}
+nav a:hover, nav a :active{
+    color: red;
+    text-decoration: underline;
+
+}
+.active{
+     text-decoration: underline;
+}
+main h1{
+    font: "Times New Roman";
+}
+main h2{
+    font: "Times New Roman";
+}
+main p{
+    margin: 10px 0;
+    text-align: justify;
+    font: 15px Arial;
+}
+form{
+    border: 4px solid none;
+    text-align: center;
+
+}
+form thead{ 
+    border: 4px solid none;
+    text-align: center;
+background-color: rgba(128, 128, 128, 0.219);
+}
+
+caption{
+    text-align: left;
+   font-weight: bold;
+    font-size: 25px;
+}
