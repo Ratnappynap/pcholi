@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Honey sale</title>
-    <link rel="stylesheet" href="CSS/ste.css">
+    <link rel="stylesheet" href="style/ste.css">
 </head>
 <body>
     <div class="wrapper">
